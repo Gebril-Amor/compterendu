@@ -1,0 +1,28 @@
+1)
+- Node.js est un environnement pour exécuter du code JavaScript, idéal pour créer des applis rapides et scalables.
+- Express est un framework web qui simplifie la création d'applis web avec Node.js.
+
+2)
+- ES6 est la sixième version d'ECMAScript, la norme pour JavaScript.
+- Les nouveautés d'ES6 incluent :
+  * Les classes
+  * Les paramètres par défaut
+  * Les déclarations avec let et const
+
+3)
+- Express est un framework web minimaliste pour Node.js.
+
+4)
+- MongoDB est une base de données NoSQL qui stocke les données sous forme de documents, pas de tables comme SQL.
+  Les différences clés entre SQL et NoSQL incluent :
+  * Structure des données
+  * Scalabilité
+  * Performance
+
+5)
+- Framework : Fournit une structure de base pour les développeurs.
+- Bibliothèque : Un ensemble de fonctions ou de classes pour accomplir des tâches spécifiques.
+
+6)
+- Le moteur V8 est un moteur JavaScript  en C++ utilisé par Chrome et Node.js, qui compile le JavaScript en code machine pour booster les performances.
+
